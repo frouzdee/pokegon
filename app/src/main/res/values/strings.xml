@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokegon</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="back">Back</string>
+
+    <string name="pokemon_api">📋Pokemon List(with evolutions)</string>
+    <string name="ins">📋Instructions</string>
+    <string name="camera">📷 Camera</string>
+</resources>

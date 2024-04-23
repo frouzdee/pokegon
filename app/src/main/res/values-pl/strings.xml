@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="main_screen">Ekran główny</string>
+    <string name="pokemon_api">Przejdź do drugiego ekranu</string>
+    <string name="camera">Przejdź do drugiego ekranu</string>
+    <string name="back">Przejdź do głównego ekranu</string>
+    <string name="ins">Instrucciones</string>
+</resources>
